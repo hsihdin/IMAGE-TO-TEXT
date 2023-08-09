@@ -1,6 +1,5 @@
-# Image to Text Conversion using DenseNet and Tokenizer
+# Image to Text Convertor
 
-![Project Banner](project_banner.png)
 
 ## Overview
 
